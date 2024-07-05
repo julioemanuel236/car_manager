@@ -1,8 +1,16 @@
-# PROYECTO_FINAL_OPTATIVA_REACT
- Proyecto Final de la Optativa React
-Facultad: IDFTE
-Equipo:
-  Julio Emanuel Galera Adán
-  Yadier Alejandro Vidal 
-  Amanda Teso Manzano 
-  Eduardo Luis Hernández Alemañy
+<h1>
+  Proyecto Final de la Optativa React
+</h1>
+<h2>
+ Facultad: IDFTE 
+</h2> 
+<div>
+<ul>
+ Equipo:
+ <li>Julio Emanuel Galera Adán</li>
+ <li>Yadier Alejandro Vidal </li>
+ <li>Amanda Teso Manzano </li>
+ <li>Eduardo Luis Hernández Alemañy</li>
+ <li></li>
+</ul>
+</div>
