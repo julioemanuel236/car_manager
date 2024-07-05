@@ -1,0 +1,5 @@
+body {
+  background-image: url("./assets/2010-Chevrolet-Camaro4.jpg");
+  background-size: cover;
+  flex-wrap: wrap;
+}
