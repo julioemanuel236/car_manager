@@ -7,10 +7,10 @@
 <div>
 <ul>
  <h3>Equipo:</h3>
- <li>Julio Emanuel Galera Adán <h6>301</h6></li>
- <li>Yadier Alejandro Vidal</li>
- <li>Amanda Teso Manzano</li>
- <li>Eduardo Luis Hernández Alemañy</li>
- <li>Nayelis Espinosa Arias</li>
+ <li>Julio Emanuel Galera Adán       301</li>
+ <li>Yadier Alejandro Vidal          301</li>
+ <li>Nayelis Espinosa Arias          301</li> 
+ <li>Eduardo Luis Hernández Alemañy  301</li> 
+ <li>Amanda Teso Manzano             302</li>
 </ul>
 </div>
