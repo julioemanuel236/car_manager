@@ -4,9 +4,9 @@
 <h2>
  Facultad: IDFTE 
 </h2> 
-<div>
+<div style="color:white">
 <ul>
- Equipo:
+ <h3>Equipo:</h3>
  <li>Julio Emanuel Galera Adán</li>
  <li>Yadier Alejandro Vidal </li>
  <li>Amanda Teso Manzano </li>
